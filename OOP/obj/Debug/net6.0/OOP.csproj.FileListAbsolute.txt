@@ -1,0 +1,15 @@
+C:\Users\m.lavallee3\source\repos\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\m.lavallee3\source\repos\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\m.lavallee3\source\repos\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\m.lavallee3\source\repos\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\m.lavallee3\source\repos\OOP\bin\Debug\net6.0\ref\OOP.dll
+C:\Users\m.lavallee3\source\repos\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\ref\OOP.dll
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\m.lavallee3\source\repos\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
